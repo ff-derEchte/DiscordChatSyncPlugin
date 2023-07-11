@@ -1,0 +1,4 @@
+name: DiscordChatSync
+version: '${project.version}'
+main: de.rubymc.discordchatsync.Main
+api-version: '1.20'
